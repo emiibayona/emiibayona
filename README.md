@@ -29,5 +29,5 @@ Full-stack e-commerce platform for a local TCG store.
 
 ## Contact
 
-LinkedIn
-Email
+LinkedIn: https://www.linkedin.com/in/emiliano-bayona/
+Email: emii.bayona22@gmail.com
