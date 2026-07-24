@@ -4,6 +4,8 @@ Frontend-focused Full-stack Developer from Uruguay 🇺🇾
 
 Currently building scalable web applications using Vue.js, React and Node.js.
 
+In my last job, as a Frontender for The Sandbox, reaching more than 1M people with the Alpha Seasons!
+
 ## Tech Stack
 
 - Vue.js (2 and 3)
@@ -26,6 +28,14 @@ Full React Native application for managing and scanning trading cards.
 
 🛒 GEARTOWN
 Full-stack e-commerce platform for a local TCG store.
+
+## What I enjoy building
+
+- Scalable frontend applications
+- Internal tools
+- Mobile applications
+- Product-focused features
+- Clean UI/UX
 
 ## Contact
 
