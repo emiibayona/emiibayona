@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Emiliano 👋
 
-<!--
-**emiibayona/emiibayona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend-focused Full-stack Developer from Uruguay 🇺🇾
 
-Here are some ideas to get you started:
+Currently building scalable web applications using Vue.js, React and Node.js.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+- Vue.js (2 and 3)
+- React
+- React Native
+
+  
+- Node.js
+- Express
+- .NET Core
+
+  
+- MySQL
+- SQLite
+
+## Featured Projects
+
+🃏 Yu-Gi-Oh Scanner
+Full React Native application for managing and scanning trading cards.
+
+🛒 GEARTOWN
+Full-stack e-commerce platform for a local TCG store.
+
+## Contact
+
+LinkedIn
+Email
