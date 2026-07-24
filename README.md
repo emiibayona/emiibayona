@@ -23,11 +23,13 @@ In my last job, as a Frontender for The Sandbox, reaching more than 1M people wi
 
 ## Featured Projects
 
-🃏 Yu-Gi-Oh Scanner
+### 🃏 Yu-Gi-Oh Scanner | [Link](https://github.com/emiibayona/yugioh-app)
 Full React Native application for managing and scanning trading cards.
 
-🛒 GEARTOWN
-Full-stack e-commerce platform for a local TCG store.
+
+### 🛒 GEARTOWN | [Link](https://github.com/emiibayona/geartown-web)
+Full-stack web platform for a local TCG store.
+
 
 ## What I enjoy building
 
